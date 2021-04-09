@@ -11,6 +11,7 @@
 		561A384926204A19007AD27A /* FileManagerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561A384826204A19007AD27A /* FileManagerExtension.swift */; };
 		561A384C26204A20007AD27A /* PlistDataProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561A384B26204A20007AD27A /* PlistDataProtocol.swift */; };
 		561A384F26204A29007AD27A /* PLD_class.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561A384E26204A29007AD27A /* PLD_class.swift */; };
+		561A385226204D61007AD27A /* plist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561A385126204D61007AD27A /* plist.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		561A384826204A19007AD27A /* FileManagerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileManagerExtension.swift; sourceTree = "<group>"; };
 		561A384B26204A20007AD27A /* PlistDataProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlistDataProtocol.swift; sourceTree = "<group>"; };
 		561A384E26204A29007AD27A /* PLD_class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PLD_class.swift; sourceTree = "<group>"; };
+		561A385126204D61007AD27A /* plist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = plist.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				561A384826204A19007AD27A /* FileManagerExtension.swift */,
 				561A384B26204A20007AD27A /* PlistDataProtocol.swift */,
 				561A384026204995007AD27A /* PlistData_lib.swift */,
+				561A385126204D61007AD27A /* plist.swift */,
 				561A384E26204A29007AD27A /* PLD_class.swift */,
 			);
 			path = PlistData_lib;
@@ -132,6 +135,7 @@
 				561A384C26204A20007AD27A /* PlistDataProtocol.swift in Sources */,
 				561A384926204A19007AD27A /* FileManagerExtension.swift in Sources */,
 				561A384F26204A29007AD27A /* PLD_class.swift in Sources */,
+				561A385226204D61007AD27A /* plist.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
