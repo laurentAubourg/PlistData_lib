@@ -17,4 +17,3 @@ protocol PlistDataProtocol: class{
     var dynamicData:Dictionary<String,AnyObject>{get set}
     func saveData(key:String ,data: Dictionary<String, AnyObject>)
 }
-
