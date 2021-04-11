@@ -33,6 +33,7 @@
 		561A384B26204A20007AD27A /* PlistDataProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlistDataProtocol.swift; sourceTree = "<group>"; };
 		561A384E26204A29007AD27A /* PLD_class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PLD_class.swift; sourceTree = "<group>"; };
 		561A385126204D61007AD27A /* plist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = plist.swift; sourceTree = "<group>"; };
+		561A386826233E70007AD27A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +66,7 @@
 		561A383F26204995007AD27A /* PlistData_lib */ = {
 			isa = PBXGroup;
 			children = (
+				561A386826233E70007AD27A /* README.md */,
 				561A384826204A19007AD27A /* FileManagerExtension.swift */,
 				561A384B26204A20007AD27A /* PlistDataProtocol.swift */,
 				561A384026204995007AD27A /* PlistData_lib.swift */,
